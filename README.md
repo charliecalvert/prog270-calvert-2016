@@ -1,4 +1,4 @@
-# Charlie Calvert's Programming 270 Repository
+# Charlie Calvert's Prog 270 Class Repository
 
 Here is where I'm putting some of my files from the Prog270 Winter, 2016 class.
 
