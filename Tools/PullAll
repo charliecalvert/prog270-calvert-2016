@@ -1,0 +1,59 @@
+echo arshad
+cd /home/charlie/Git/prog270-2016/prog270-arshad-2016
+git pull
+
+echo Bihay
+cd /home/charlie/Git/prog270-2016/prog270-bihay-2016
+git pull
+
+echo Fish
+cd /home/charlie/Git/prog270-2016/prog270-fish-2016
+git pull
+
+echo Foshee
+cd /home/charlie/Git/prog270-2016/prog270-foshee-2016
+git pull
+
+echo Fuensalida
+cd /home/charlie/Git/prog270-2016/prog270-fuenzalida-2016
+git pull
+
+echo Kimsunmi
+cd /home/charlie/Git/prog270-2016/prog270-kimsunmi-2016
+git pull
+
+echo Markley
+cd /home/charlie/Git/prog270-2016/prog270-markley-2016
+git pull
+
+Echo Rao
+cd /home/charlie/Git/prog270-2016/prog270-rao-2016
+git pull
+
+echo Song
+cd /home/charlie/Git/prog270-2016/prog270-song-2016
+git pull
+
+echo Tom Sternberg
+cd /home/charlie/Git/prog270-2016/prog270-sternberg
+git pull
+
+echo Jenna Stringfellow
+cd /home/charlie/Git/prog270-2016/prog270-stringfellow
+git pull
+
+echo Chang Sui
+cd /home/charlie/Git/prog270-2016/prog270-sui-2016
+git pull
+
+echo Thurkral
+cd /home/charlie/Git/prog270-2016/prog270-thukral-2016
+git pull
+
+echo Peter Troendle
+cd /home/charlie/Git/prog270-2016/prog270-troendle-2016
+git pull
+
+echo Jason Verster
+cd /home/charlie/Git/prog270-2016/prog270verster-2016
+git pull
