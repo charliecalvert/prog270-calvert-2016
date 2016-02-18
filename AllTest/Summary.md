@@ -1,3 +1,5 @@
 * [WalkingMap.html](WalkingMap.html)
 * [file1.html](file1.html)
 * [file2.html](file2.html)
+* [index.html](index.html)
+* [master-list.html](master-list.html)
