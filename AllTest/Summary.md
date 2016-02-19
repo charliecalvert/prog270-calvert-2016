@@ -1,5 +1,5 @@
-* [WalkingMap.html](WalkingMap.html)
-* [file1.html](file1.html)
-* [file2.html](file2.html)
+* [Bar.html](Bar.html)
+* [Foo.html](Foo.html)
+* [Qux.html](Qux.html)
 * [index.html](index.html)
 * [master-list.html](master-list.html)

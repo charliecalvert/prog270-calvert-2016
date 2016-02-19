@@ -1,0 +1,5 @@
+#! /bin/bash
+
+find . -iname '*.html' | xargs rm
+find . -iname 'master-list.md' | xargs rm
+find . -iname 'Summary.md' | xargs rm
