@@ -2,6 +2,24 @@
 
 This is foo
 
+| Name | Age  | Place
+|------|:-----|:-------
+| Sue  | 35   | Houston
+| Paul | 42   | Detroit
+| Lisa | 28   | Tangier
+
+## Bar
+
+This is bar
+
+```javascript
+makePage.init = function() {
+    'use strict';
+    masterListOfNames = [];
+    htmlFilesWritten = [];
+};
+```
+
 ## CSS
 
 As you already know, you can enter bang, square brackets and a title, then parenthesis and a URL to display a picture with markdown. A bit like this, where you text is flush left:
