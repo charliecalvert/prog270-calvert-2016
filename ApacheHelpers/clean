@@ -1,0 +1,6 @@
+#! /bin/bash
+
+rm master-list.html Foo.html Summary.html Pictures.html Qux.html index.html file1.html file2.html Bar.html
+rm -r goo garply MoreFiles goobar qux Assignments
+rm apache-helpers.zip
+zip -r apache-helpers css/ js/ images/
