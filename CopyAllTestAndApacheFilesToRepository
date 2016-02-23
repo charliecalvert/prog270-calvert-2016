@@ -1,0 +1,18 @@
+#! /bin/bash
+
+# Declare destination dir for AllTest in 
+# one place so it is easy to modify
+REPO=$GIT_HOME/prog270-calvert-2016
+
+# Declare destination for CSS, JavaScript and Images
+CSS_JS_IMAGE=$REPO/CssJsImage
+
+# Copy AllTest
+cp -r ~/Documents/AllTest $REPO/
+
+# Ensure destination dir exists for CSS, JS and Images
+mkdir -p $CSS_JS_IMAGE
+# Copy CSS, JavaScript and Images
+cp -r /var/www/html/css $CSS_JS_IMAGE/css
+cp -r /var/www/html/images $CSS_JS_IMAGE/images
+cp -r /var/www/html/js $CSS_JS_IMAGE/js
