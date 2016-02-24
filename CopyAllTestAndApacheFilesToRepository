@@ -5,7 +5,7 @@
 REPO=$GIT_HOME/prog270-calvert-2016
 
 # Declare destination for CSS, JavaScript and Images
-CSS_JS_IMAGE=$REPO/CssJsImage
+CSS_JS_IMAGE=$REPO/ApacheHelpers
 
 # Copy AllTest
 cp -r ~/Documents/AllTest $REPO/
@@ -16,3 +16,4 @@ mkdir -p $CSS_JS_IMAGE
 cp -r /var/www/html/css $CSS_JS_IMAGE/css
 cp -r /var/www/html/images $CSS_JS_IMAGE/images
 cp -r /var/www/html/js $CSS_JS_IMAGE/js
+cp /var/www/html/clean $CSS_JS_IMAGE/.
