@@ -3,6 +3,7 @@
 * [Pictures.html](Pictures.html)
 * [Qux.html](Qux.html)
 * [WalkingMap.html](WalkingMap.html)
+* [canada.html](canada.html)
 * [file1.html](file1.html)
 * [file2.html](file2.html)
 * [index.html](index.html)
