@@ -17,19 +17,18 @@ Fine Dog
 Climbs for the rope.
 ```
 
-## Bar01
+## Files
 
-Bar01
+This is the Bar01 section.
 
-## Bar02
+## Directories
 
-Bar02
-
+This is the Bar02 section.
 
 ## Bar03
 
-Bar03
+This is the Bar03 section.
 
 ## Bar04
 
-Bar04
+This is the Bar04 section.

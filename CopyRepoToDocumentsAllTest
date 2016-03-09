@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cp -ruv AllTest/ ~/Documents/.
-cp -ruv ApacheHelpers/images /var/www/html/.
-cp -ruv ApacheHelpers/css /var/www/html/.
-cp -ruv ApacheHelpers/js /var/www/html/.
+cp -ruvp AllTest/ ~/Documents/.
+cp -ruvp ApacheHelpers/images /var/www/html/.
+cp -ruvp ApacheHelpers/css /var/www/html/.
+cp -ruvp ApacheHelpers/js /var/www/html/.

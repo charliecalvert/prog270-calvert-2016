@@ -8,17 +8,15 @@ REPO=$GIT_HOME/prog270-calvert-2016
 CSS_JS_IMAGE=$REPO/ApacheHelpers
 
 # Copy AllTest
-cp -r ~/Documents/AllTest $REPO/
+cp -ruvp ~/Documents/AllTest $REPO/
 
 # Ensure destination dir exists for CSS, JS and Images
 if [ ! -d "$CSS_JS_IMAGE" ]; then
 	mkdir -p $CSS_JS_IMAGE
-else
-	echo $CSS_JS_IMAGE already exists
 fi
 
 # Copy CSS, JavaScript and Images
-cp -ruv /var/www/html/css $CSS_JS_IMAGE/.
-cp -ruv /var/www/html/images $CSS_JS_IMAGE/.
-cp -ruv /var/www/html/js $CSS_JS_IMAGE/.
-cp -uv /var/www/html/clean $CSS_JS_IMAGE/.
+cp -ruvp /var/www/html/css $CSS_JS_IMAGE/.
+cp -ruvp /var/www/html/images $CSS_JS_IMAGE/.
+cp -ruvp /var/www/html/js $CSS_JS_IMAGE/.
+cp -uvp /var/www/html/clean $CSS_JS_IMAGE/.

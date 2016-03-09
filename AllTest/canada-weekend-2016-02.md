@@ -2,13 +2,17 @@
 
 The weekend in Vancouver, Feb 2016.
 
+Click on any of the images to expand them. This was a weekend we spent in the city at the Georgia Hotel by the Pacific Center.
+
 ## Images
 
 West Vancouver by the water.
 
 [![/images/canada/2016-02-27_09.08.04-small.jpg](/images/canada/2016-02-27_09.08.04-small.jpg)](/images/canada/2016-02-27_09.08.04.jpg)
 
-## City
+## Vancouver City
+
+This is vancouver city seen from West Vancouver.
 
 [![/images/canada/2016-02-27_09.11.28-small.jpg](/images/canada/2016-02-27_09.11.28-small.jpg)](/images/canada/2016-02-27_09.11.28.jpg)
 
