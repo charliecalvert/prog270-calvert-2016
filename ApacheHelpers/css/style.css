@@ -7,6 +7,11 @@ body {
     padding-bottom: 30px;
 }
 
+div.padded {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .theme-dropdown .dropdown-menu {
     position: static;
     display: block;

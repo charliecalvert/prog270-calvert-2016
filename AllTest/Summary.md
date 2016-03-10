@@ -1,4 +1,5 @@
 * [Bar.html](Bar.html)
+* [BootstrapThemes.html](BootstrapThemes.html)
 * [Foo.html](Foo.html)
 * [Pictures.html](Pictures.html)
 * [Qux.html](Qux.html)
