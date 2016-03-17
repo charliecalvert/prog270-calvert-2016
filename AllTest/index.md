@@ -1,6 +1,6 @@
 * [Summary.html](Summary.html)
 
-## Buttons
+## Bootstrap Button Examples
 
 <p>
   <button type="button" class="btn btn-lg btn-default">Default</button>
