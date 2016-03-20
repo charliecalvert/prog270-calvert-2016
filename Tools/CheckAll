@@ -1,59 +1,69 @@
-echo arshad
+function title() {
+	echo -e "\n==============="
+	echo $1
+	echo "==============="
+}
+
+title arshad
 cd /home/charlie/Git/prog270-2016/prog270-arshad-2016
 git status
 
-echo Bihay
+title Bihay
 cd /home/charlie/Git/prog270-2016/prog270-bihay-2016
 git status
 
-echo Fish
+title Fish
 cd /home/charlie/Git/prog270-2016/prog270-fish-2016
 git status
 
-echo Foshee
+title Foshee
 cd /home/charlie/Git/prog270-2016/prog270-foshee-2016
 git status
 
-echo Fuensalida
+title Fuensalida
 cd /home/charlie/Git/prog270-2016/prog270-fuenzalida-2016
 git status
 
-echo Kmsunmi
+title Kmsunmi
 cd /home/charlie/Git/prog270-2016/prog270-kimsunmi-2016
 git status
 
-echo Markley
+title Markley
 cd /home/charlie/Git/prog270-2016/prog270-markley-2016
 git status
 
-Echo Rao
+title Rao
 cd /home/charlie/Git/prog270-2016/prog270-rao-2016
 git status
 
-echo Song
+title Song
 cd /home/charlie/Git/prog270-2016/prog270-song-2016
 git status
 
-echo Tom Sternberg
+title Tom Sternberg
 cd /home/charlie/Git/prog270-2016/prog270-sternberg-2016
 git status
 
-echo Jenna Stringfellow
+title Jenna Stringfellow
 cd /home/charlie/Git/prog270-2016/prog270-stringfellow
 git status
 
-echo Chang Sui
+title Erina Sugita
+cd /home/charlie/Git/prog270-2016/prog270-sugita-2016
+git status
+
+title Chang Sui
 cd /home/charlie/Git/prog270-2016/prog270-sui-2016
 git status
 
-echo Thurkral
+title Thurkral
 cd /home/charlie/Git/prog270-2016/prog270-thukral-2016
 git status
 
-echo Peter Troendle
+title Peter Troendle
 cd /home/charlie/Git/prog270-2016/prog270-troendle-2016
 git status
 
-echo Jason Verster
+title Jason Verster
 cd /home/charlie/Git/prog270-2016/prog270-verster-2016
 git status
