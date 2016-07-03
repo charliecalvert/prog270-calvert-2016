@@ -12,6 +12,14 @@ div.padded {
     padding-bottom: 5px;
 }
 
+img {
+    width: 100%;
+}
+
+.elf-normal {
+    width: initial;
+}
+
 .theme-dropdown .dropdown-menu {
     position: static;
     display: block;
