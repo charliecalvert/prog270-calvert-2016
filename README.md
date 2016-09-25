@@ -1,5 +1,7 @@
 # Charlie Calvert's Prog 270 Class Repository
 
+BarFoo
+
 Here is where I'm putting some of my files from the Prog270 Winter, 2016 class.
 
 ## Git Steps
